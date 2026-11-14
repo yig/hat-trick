@@ -1,0 +1,1 @@
+{"author":{"id":"f09a4edea956a8214969e386fa009af686cb5175be2d8f946c253791d59dcc62"},"ops":[{"type":1,"timestamp":1794656651,"nonce":"fB+AeIoHAA7s9EUvNFUq+zjqdxI=","title":"Gamepad: on-screen join hints don't name the device","message":"Lobby join hints are generic; it would help to show which connected gamepads are present and not yet joined.","files":null}]}
