@@ -1,1 +1,1 @@
-{"author":{"id":"f09a4edea956a8214969e386fa009af686cb5175be2d8f946c253791d59dcc62"},"ops":[{"type":3,"timestamp":1795200933,"nonce":"83UXR6yvDv9OpeHSIHgHRSZi1hQ=","message":"Done: silent peers are dropped and leaves announced immediately (5a51417); ?join=CODE stays in the URL so a reload rejoins (295ea9f); a reloaded tab gets its players back (38e7a06).","files":null}]}
+{"author":{"id":"f09a4edea956a8214969e386fa009af686cb5175be2d8f946c253791d59dcc62"},"ops":[{"type":4,"timestamp":1795200934,"nonce":"CYzPxPr3kJY/Mqac3dvBefT6W+8=","status":2}]}
